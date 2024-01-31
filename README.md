@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhavi Latha
-- 👀 I’m interested in coding
+- 👀 I’m programming enthusiast...
 - 🌱 I’m currently pursuing graduation...
 
 <!---
